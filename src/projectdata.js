@@ -56,4 +56,12 @@ export default [
         'https://play-lh.googleusercontent.com/E98nBqUt5wzeSbiNOC5iPFH9eXhJkaEQ1NeFE8mCc90HzkpDgVGfj-wR5B3SC3B9iQ=s180-rw',
       projectlink:"https://play.google.com/store/apps/details?id=com.technicalkeeda.bodycafe"
     },
+     {
+      id: 8,
+      name: 'Dream Team Prediction application  ',
+      desc:'Dream 11 team Prediction application',
+      image:
+        'https://play-lh.googleusercontent.com/6VUwBKj5rJ9ZTcC1XsbSf3jGTXjIAarJNUHRnf-MpN6H8JfZq7TCn9ETfMTAn-1XYQ=s180-rw',
+      projectlink:"https://play.google.com/store/apps/details?id=in.technicalkeeda.dtp"
+    },
   ];
